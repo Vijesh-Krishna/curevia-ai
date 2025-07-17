@@ -48,6 +48,6 @@ welfare schemes in a user-friendly manner.
 
 ---
 
-📃 License
+📃 License: 
 This project is licensed under the MIT License.
 Feel free to use, adapt, or contribute!
