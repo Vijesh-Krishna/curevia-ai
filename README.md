@@ -40,26 +40,6 @@ welfare schemes in a user-friendly manner.
 
 ---
 
-🏗️ Folder Structure
-
-curevia-ai/
-├── backend/
-│ ├── index.js
-│ ├── .env
-│ └── package.json
-├── frontend/
-│ ├── src/
-│ │ |
-│ │ └── components/
-│ │ ├── InputBox.jsx
-│ │ └── SchemeCard.jsx
-| ├── App.jsx
-│ ├── index.html
-│ └── package.json
-└── README.md
-
----
-
 📦 Future Improvements
 ✅ Deploy to Netlify or Render with environment variables.
 🔐 Role-based access for doctors and patients.
