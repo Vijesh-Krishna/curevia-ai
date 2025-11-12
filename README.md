@@ -48,6 +48,9 @@ welfare schemes in a user-friendly manner.
 
 ---
 
-📃 License: 
-This project is licensed under the MIT License.
-Feel free to use, adapt, or contribute!
+If this project resonates with you or your organization, I’d love to connect and collaborate on similar **tech-for-social-good** initiatives.
+
+**– Vijesh Krishna**
+[Portfolio](https://vijeshkrishna.netlify.app) | [LinkedIn](https://www.linkedin.com/in/vijesh-krishna/) | [GitHub](https://github.com/Vijesh-Krishna)
+
+
