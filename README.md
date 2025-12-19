@@ -1,6 +1,6 @@
 🩺 Curevia AI
 
-Curevia AI is an intelligent healthcare assistant that analyzes user-described symptoms and recommends suitable Indian government health schemes. 
+Curevia AI is an intelligent healthcare assistant that analyzes user-described symptoms and recommends suitable Indian government health schemes.   
 Built using modern web technologies and integrated with a powerful LLM API via OpenRouter, it leverages AI to improve accessibility to
 welfare schemes in a user-friendly manner.
 
